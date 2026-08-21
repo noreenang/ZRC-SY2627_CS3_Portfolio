@@ -40,16 +40,39 @@ Please list possible sub-problems:
 
  Step 3: Define Computational Thinking Approaches
 
-| Sub-Problem                | CT Skill Applied        | Example Solution                                      
-|----------------------------|-------------------------|----------------------------------------------------------- |                            |                         |
-| 1. Order Decision Delays   | Abstraction             | Show only necessary information on a simple menu board    |                            |                         | outside the canteen.    
---------------------------------------------------------------------------------------------------------------------
-| 2. Slow Payment Processing | Algorithm Design        | Create a basic step-by-step calculator program to sum     |                            |                         |    order totals and calculate change. 
---------------------------------------------------------------------------------------------------------------------
-| 3. Lack of Stock Tracking  | Pattern Recognition     | Track popular items and use a quick tally board to        |                            |                         |  mark items "SOLD OUT".          
---------------------------------------------------------------------------------------------------------------------
-| 4. Queue Congestion        | Decomposition           | Separate the single crowding area into two clear           |                            |                         |  lines: one for paying and one for pickup.          
--------------------------------------------------------------------------------------------------------------------
+<div style="font-size: 13px; margin: 15px 0;">
+  <table style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+      <tr style="background-color: #f2f2f2;">
+        <th style="border: 1px solid #ddd; padding: 10px 14px; width: 25%;">Sub-Problem</th>
+        <th style="border: 1px solid #ddd; padding: 10px 14px; width: 20%;">CT Skill</th>
+        <th style="border: 1px solid #ddd; padding: 10px 14px; width: 55%;">Example Solution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Order Decision Delays</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Abstraction</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;">Show only necessary information by writing a simple menu on a whiteboard outside the canteen so students decide before entering.</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Payment and Transaction Delays</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Algorithm Design</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;">Create a basic step-by-step calculator program for the cashier to quickly add item prices and compute change.</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Absence of Inventory Tracking</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Pattern Recognition</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;">Notice which meals sell out fastest each day and use a quick tally board to mark items "SOLD OUT" immediately.</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Queue and Pickup Congestion</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;"><b>Decomposition</b></td>
+        <td style="border: 1px solid #ddd; padding: 10px 14px;">Split the main problem area into two separate lines: one for paying and one for food pickup.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
  Step 4: Algorithmic Solution for Identified Sub-Problem
 
