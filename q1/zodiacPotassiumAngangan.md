@@ -111,7 +111,7 @@ This code requirement focuses on the implementation of the basics of Python base
 
 ---
 
-## 3. Source Code (`zodiacSectionLN.py`)
+## 3. Source Code (`zodiacPotassiumAngangan.py`)
 
 ```python
 # Activity 3: Chinese Zodiac Sign
