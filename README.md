@@ -3,4 +3,5 @@
 
 * [Activity 1: CT Exercise](q1/ctskillsPotassiumAnganganLuceroRoda.md)
 * [Activity 3: Chinese Zodiac Sign](zodiacPotassiumAngangan.md)
+*   Code File:** `zodiacPotassiumAngangan.py`
 
