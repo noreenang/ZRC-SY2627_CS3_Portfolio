@@ -157,6 +157,7 @@ try:
 except ValueError:
     # Check for non-number inputs 
     print("Invalid Input! Please enter a valid numerical year.")
+```
 
 
 ---
@@ -164,10 +165,10 @@ except ValueError:
 ## 4. Program Output Screenshots
 
 ### Case 1: Valid Birth Year
-![Valid Input Screenshot](valid_input.png)
+![Valid Input Screenshot](valid_input.PNG)
 
 ### Case 2: Invalid Year (< 1900)
-![Invalid Year Screenshot](invalid_year.png)
+![Invalid Year Screenshot](invalid_year.PNG)
 
 ### Case 3: Non-Numerical Input
-![Non-Numerical Input Screenshot](non_numerical_input.png)
+![Non-Numerical Input Screenshot](non_numerical_input.PNG)
