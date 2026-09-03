@@ -13,8 +13,6 @@
  damage. Print both their HPs to see that Morgana is still at full health!
 ---
 
-## 2. Python Source Code
-
 ## 2. Python Source Code (`TheRPGHero.py`)
 
 ```python
