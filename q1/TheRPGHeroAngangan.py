@@ -1,5 +1,5 @@
-
 # Activity 1: The RPG Hero
+# Name: Noreen Ysabelle C. Angangan
 
 class Hero:
     def __init__(self, name, hp):
