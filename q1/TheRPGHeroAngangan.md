@@ -15,9 +15,11 @@
 
 ## 2. Python Source Code
 
+## 2. Python Source Code (`TheRPGHero.py`)
+
 ```python
 # Activity 1: The RPG Hero
-# Author: Noreen Ysabelle C. Angangan
+# Name: Noreen Ysabelle C. Angangan
 
 class Hero:
     def __init__(self, name, hp):
@@ -27,7 +29,7 @@ class Hero:
     def take_damage(self, amount):
         self.hp -= amount
 
-# Instantiate heroes
+# Make heroes
 arthur = Hero("Arthur", 100)
 morgana = Hero("Morgana", 100)
 
@@ -37,3 +39,4 @@ arthur.take_damage(10)
 # Output HP statuses
 print(f"{arthur.name}'s HP: {arthur.hp}")
 print(f"{morgana.name}'s HP: {morgana.hp}")
+```
